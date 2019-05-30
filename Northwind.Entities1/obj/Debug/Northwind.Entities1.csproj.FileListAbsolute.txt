@@ -1,0 +1,12 @@
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\bin\Debug\Northwind.Entities1.dll
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\bin\Debug\Northwind.Entities1.pdb
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.csprojAssemblyReference.cache
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.dll
+C:\Users\BK\source\repos\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.pdb
+D:\BK\Desktop\Solution5\Northwind.Entities1\bin\Debug\Northwind.Entities1.dll
+D:\BK\Desktop\Solution5\Northwind.Entities1\bin\Debug\Northwind.Entities1.pdb
+D:\BK\Desktop\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.csprojAssemblyReference.cache
+D:\BK\Desktop\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.csproj.CoreCompileInputs.cache
+D:\BK\Desktop\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.dll
+D:\BK\Desktop\Solution5\Northwind.Entities1\obj\Debug\Northwind.Entities1.pdb
